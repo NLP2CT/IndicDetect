@@ -1,0 +1,19 @@
+{
+    "threshold_used": 0.8948,
+    "roc_auc": 1.0,
+    "conf_matrix": [
+        [
+            500,
+            0
+        ],
+        [
+            0,
+            1500
+        ]
+    ],
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "accuracy": 1.0,
+    "num_examples": 2000
+}
