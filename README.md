@@ -25,7 +25,7 @@
 ## 🧐 Overview
 
 <div align="center">
-<img src="Image/Framework.svg" width="900px">
+<img src="Image/Framework.svg" width="800px">
 </div>
 
 We pair curated human-written texts with LLM counterparts across four domains (academic, news, creative, movie reviews) and three generators (GPT-4.1, Qwen-Plus, DeepSeek-v3.2), then evaluate eight detectors under six settings: In-Distribution, In-Distribution (Domain), In-Distribution (Generator), Multi-Domain, Multi-Generator, and Multi-Attack. Robustness is stress-tested with seven meaning-preserving attacks: paraphrase, perturbation, whitespace addition, insert-paragraph, alternative spelling, misspelling, and synonym swap.
