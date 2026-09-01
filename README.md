@@ -2,7 +2,7 @@
 <img src="Image/Logo.png" width="180px">
 </div>
 
-<h2 align="center"> <a href="https://arxiv.org/abs/XXXX.XXXXX">[EMNLP 2026 Findings] IndicDetect: Evaluating Cross-Lingual LLM-Generated Text Detection for Hindi, Telugu, and Tamil</a></h2>
+<h2 align="center"> <a href="https://arxiv.org/abs/2608.29919">[EMNLP 2026 Findings] IndicDetect: Evaluating Cross-Lingual LLM-Generated Text Detection for Hindi, Telugu, and Tamil</a></h2>
 
 <h5 align="center"> If you like our project, please give us a star ⭐ on GitHub. </h5>
 
