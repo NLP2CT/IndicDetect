@@ -8,7 +8,7 @@
 
 <div align="center">
 
-[![arXiv](https://img.shields.io/badge/arXiv-XXXX.XXXXX-b31b1b.svg?logo=arXiv)](https://arxiv.org/abs/XXXX.XXXXX)
+[![arXiv](https://img.shields.io/badge/arXiv-XXXX.XXXXX-b31b1b.svg?logo=arXiv)](https://arxiv.org/abs/2608.29919)
 [![EMNLP 2026 Findings](https://img.shields.io/badge/EMNLP%202026-Findings-blueviolet.svg)](https://2026.emnlp.org/)
 
 </div>
