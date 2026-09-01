@@ -111,6 +111,6 @@ python Detectors/<detector>.py
   author    = {Devalla, Bhaskar Ganesh and Wu, Junchao and Dokuparthi, Nilesh and Yaluru, Greeshma and Rodriguez, Tatiana Muniz and Chao, Lidia S. and Wong, Derek F.},
   booktitle = {Findings of the Association for Computational Linguistics: EMNLP 2026},
   year      = {2026},
-  url       = {https://arxiv.org/abs/XXXX.XXXXX}
+  url       = {https://arxiv.org/abs/2608.29919}
 }
 ```
